@@ -1,0 +1,26 @@
+{
+  "name": "js30-12-give-me-gif",
+  "version": "1.0.0",
+  "description": "practice project for vanillaJS and NodeJS based on JS30",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ming-yong/JS30-12-give-me-gif.git"
+  },
+  "author": "Ming Yong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ming-yong/JS30-12-give-me-gif/issues"
+  },
+  "homepage": "https://github.com/ming-yong/JS30-12-give-me-gif#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.1"
+  }
+}
