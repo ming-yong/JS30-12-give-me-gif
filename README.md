@@ -2,7 +2,7 @@
 
 ![image: demonstration of give me gif](https://github.com/ming-yong/JS30-12-give-me-gif/blob/master/giveMeGif.gif)
 
-A random gif generator using key sequence detection, built with vanilla JS. You can [view demo here](https://ming-yong.github.io/JS30-12-give-me-gif/) or [view my blog post about this build here]().
+A random gif generator using key sequence detection, built with vanilla JS for front-end + NodeJS for back-end.This is one of my vanilla JavaScript practice projects, you can [view demo here]() or [view my blog post about this build here]().
 
 ## User stories
 
