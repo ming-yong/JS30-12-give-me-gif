@@ -11,5 +11,5 @@ A random gif generator using key sequence detection, built with vanilla JS for f
 ## Reference
 
 - [JavaScript 30 by WesBos](https://github.com/wesbos/JavaScript30)
-- [The Coding Train tutorials: Involving using api keys and deploying](https://www.youtube.com/watch?v=Rz886HkV1j4)
+- [The Coding Train tutorials(those about using api keys and deploying)](https://www.youtube.com/watch?v=Rz886HkV1j4)
 
