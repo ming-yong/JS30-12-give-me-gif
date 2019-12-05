@@ -4,7 +4,6 @@ const image = document.querySelector("img");
 const displayMessage = document.querySelector(".p_message");
 const displayWord = document.querySelector(".p_word");
 
-
 window.addEventListener("keyup", async e => {
 	e.preventDefault();
 	input.push(e.key);

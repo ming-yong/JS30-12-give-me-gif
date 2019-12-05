@@ -1,10 +1,9 @@
 const express = require("express"); //use express
 const fetch = require("node-fetch"); //fetch in server code
 require("dotenv").config();//env
-const api_key = process.env.API_KEY;
-const port = process.env.PORT || 3000;
 const app = express();
 app.use(express.static("public")); //generate web pages from folder public
+const port = process.env.PORT || 3000;
 const giphyKey = process.env.GIPHY_KEY;
 const wordnikKey = process.env.WORDNIK_KEY;
 const giphyAPI = `https://api.giphy.com/v1/gifs/search?api_key=${giphyKey}`;
